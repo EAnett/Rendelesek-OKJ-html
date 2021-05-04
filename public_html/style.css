@@ -1,0 +1,57 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgray;
+    width: 800px;
+}
+h1 {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    
+    /*18 pontos*/
+}
+h2 {
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-style: italic;
+}
+img {
+    height: 75px;
+}
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+table, td, th {
+    border: 2px solid black;
+}
+.ba {
+    width: 100px;
+}
+.kep {
+    width: 120px;
+}
+.tn {
+    width: 200px;
+}
+.men {
+    width: 100px;
+}
+.ne {
+    width: 100px;
+}
+.af {
+    width: 50px;
+}
+.szin, th {
+    background-color: grey;
+    color: white;
+}
+p {
+    font-weight: bold;
+}
